@@ -33,7 +33,7 @@
                     <artifactId>spring-boot-starter-tomcat</artifactId>
                 </exclusion>
             </exclusions>
-            <version>1.5.9.RELEASE</version>
+            <version>2.5.12</version>
         </dependency>
         <dependency>
             <groupId>org.mybatis.spring.boot</groupId>
